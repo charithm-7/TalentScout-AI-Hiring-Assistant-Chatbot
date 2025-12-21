@@ -1,0 +1,273 @@
+[
+    {
+        "timestamp": "2025-12-21T14:44:47.078273",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "bng",
+            "tech_stack": "Python, Java"
+        },
+        "answers": {
+            "What is your experience with object-oriented programming in Python?": "dfdsf",
+            "Can you explain how you would use decorators to modify function behavior?": "dsfsda",
+            "How do you approach debugging complex issues in large-scale Python applications?": "adfsadf",
+            "What is the difference between an abstract class and an interface in Java?": "sdfsgf",
+            "How do you handle null pointer exceptions in Java?": "sdfgasdv",
+            "Can you explain the concept of polymorphism in Java?": "asfadsf"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:07:14.545358",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "Python, java"
+        },
+        "answers": {
+            "What is your experience with decorators in Python?": "cdsvsdv",
+            "How do you handle errors in your Python scripts?": "dsvadvdv\n",
+            "Can you explain the difference between list comprehensions and generator expressions?": "davdvdsv",
+            "What is the difference between == and .equals() in Java?": "SDVdsvdv",
+            "Can you explain the concept of multithreading in Java?": "DSVsdv",
+            "How do you handle exceptions in your Java code?": "SDVsdv"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:18:20.637684",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "python,  java"
+        },
+        "answers": {
+            "What is your approach to debugging complex Python code?": "cadsvsdv",
+            "Can you explain how you would implement a simple neural network using Keras in Python?": "dsavsdvsdv",
+            "How do you handle memory errors when working with large datasets in Python?": "",
+            "What is the difference between \"==\" and \".equals()\" in Java?": "ZCsavfvf",
+            "How do you handle null pointer exceptions in your Java code?": "czvfeeb",
+            "Can you explain the concept of static vs instance methods in Java?": "sdvasfbf"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:21:10.460097",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai56@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "python,  java"
+        },
+        "answers": {
+            "What is your favorite way to handle errors in Python?": "fdsvsdvdsv",
+            "How do you approach debugging complex issues in a large-scale Python project?": "svsfvfasv",
+            "Can you explain the concept of duck typing in Python?": "dvfsvf",
+            "What is your approach to handling null pointer exceptions in Java?": "scvbebef",
+            "Can you explain the difference between `ArrayList` and `LinkedList` in terms of memory usage and performance?": "vsfbfd",
+            "How would you implement a singleton pattern in Java, and what are its implications for multithreaded applications?": "sdvfebfa"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:24:37.356624",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai56@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "Python, java"
+        },
+        "answers": {
+            "What is your approach to debugging complex issues in Python code?": "dssdv",
+            "Can you explain the difference between pass by object reference and pass by value in Python?": "vdsva ",
+            "How do you handle errors and exceptions in asynchronous Python programming?": "",
+            "What is your experience with multithreading in Java?": "AVdsvfwv",
+            "Can you explain the difference between == and equals() method in Java?": "aVdVds",
+            "How do you handle null pointer exceptions in your Java code?": "DVSBFB"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:26:56.924236",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "python"
+        },
+        "answers": {
+            "What is the difference between list comprehensions and generator expressions in Python?": "224324",
+            "How do you handle errors in asynchronous code using try/except blocks?": "3423523",
+            "Can you explain the concept of \"duck typing\" in Python?": "dfsdvds"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:31:27.106068",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "Python"
+        },
+        "answers": {
+            "What is your favorite way to handle errors in Python?": "sfhasuh",
+            "Can you explain the difference between list comprehensions and generator expressions?": "ajscduc",
+            "How do you optimize the performance of a slow-running Python program?": "cddwvuo"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:33:47.865458",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai56@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "ML",
+            "location": "Bengaluru",
+            "tech_stack": "python"
+        },
+        "answers": {
+            "What is your approach to handling errors in Python?": "dhudhv",
+            "Can you explain how decorators work in Python, including a real-world example of their use?": "dsvdsv",
+            "How do you optimize the performance of a Python script, especially for larger datasets or complex computations?": "davdsv"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:42:32.719364",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": 0,
+            "position": "AI/ML Intern",
+            "location": "Mumbai",
+            "tech_stack": "Java, C++"
+        },
+        "answers": {
+            "What is the difference between `==` and `.equals()` in Java?": "sdafsdf",
+            "How do you handle memory leaks in Java applications?": "dsavdsv",
+            "Can you explain the concept of garbage collection in Java?": "asdvadv",
+            "What is your favorite feature in C++ that you use frequently?": "",
+            "How do you handle exceptions in your C++ code, especially when working with third-party libraries?": "sdvdSV",
+            "Can you describe your approach to debugging complex issues in large C++ projects?": "ASDVSDV"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:47:58.446609",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai56@gmail.com",
+            "phone": "8555824497",
+            "experience": "0 (Fresher)",
+            "position": "AI/ML Intern",
+            "location": "Bengaluru",
+            "tech_stack": "Java, C"
+        },
+        "answers": {
+            "What is the difference between the \"==\" operator and the \".equals()\" method in Java?": "dfdavfbfb",
+            "How do you handle exceptions in Java, and what are some best practices for doing so?": "sdvfbee",
+            "Can you explain the concept of polymorphism in Java and provide an example?": "sfbeg ",
+            "What inspired you to pursue a career in science?": "csabefbaeng",
+            "How do you stay motivated when faced with challenges or setbacks?": "savfbbe",
+            "Can you share an example of a project or research that you're particularly proud of?": "sfbeafbe"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T15:47:58.977225",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai56@gmail.com",
+            "phone": "8555824497",
+            "experience": "0 (Fresher)",
+            "position": "AI/ML Intern",
+            "location": "Bengaluru",
+            "tech_stack": "Java, C"
+        },
+        "answers": {
+            "What is the difference between the \"==\" operator and the \".equals()\" method in Java?": "dfdavfbfb",
+            "How do you handle exceptions in Java, and what are some best practices for doing so?": "sdvfbee",
+            "Can you explain the concept of polymorphism in Java and provide an example?": "sfbeg ",
+            "What inspired you to pursue a career in science?": "csabefbaeng",
+            "How do you stay motivated when faced with challenges or setbacks?": "savfbbe",
+            "Can you share an example of a project or research that you're particularly proud of?": "sfbeafbe"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T16:04:21.129183",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": "0 (Fresher)",
+            "position": "AI/ML Intern",
+            "location": "Bengaluru",
+            "tech_stack": "Java, C"
+        },
+        "answers": {
+            "What is polymorphism in Java, and how does it relate to method overriding?": "N/A",
+            "Can you explain the difference between the equals() and == operators when comparing objects in Java?": "N/A",
+            "How do you handle exceptions in Java, and what are some best practices for doing so?": "N/A",
+            "What are some of the most significant challenges you've faced in your career as a C++ developer?": "N/A",
+            "How do you approach debugging complex issues in your code?": "N/A",
+            "Can you describe a particularly innovative or creative solution you've implemented in a project?": "N/A"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T16:04:21.756182",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": "0 (Fresher)",
+            "position": "AI/ML Intern",
+            "location": "Bengaluru",
+            "tech_stack": "Java, C"
+        },
+        "answers": {
+            "What is polymorphism in Java, and how does it relate to method overriding?": "N/A",
+            "Can you explain the difference between the equals() and == operators when comparing objects in Java?": "N/A",
+            "How do you handle exceptions in Java, and what are some best practices for doing so?": "N/A",
+            "What are some of the most significant challenges you've faced in your career as a C++ developer?": "N/A",
+            "How do you approach debugging complex issues in your code?": "N/A",
+            "Can you describe a particularly innovative or creative solution you've implemented in a project?": "N/A"
+        }
+    },
+    {
+        "timestamp": "2025-12-21T16:04:21.955747",
+        "candidate_details": {
+            "name": "M Charith Sai Krishna",
+            "email": "charithsai360@gmail.com",
+            "phone": "8555824497",
+            "experience": "0 (Fresher)",
+            "position": "AI/ML Intern",
+            "location": "Bengaluru",
+            "tech_stack": "Java, C"
+        },
+        "answers": {
+            "What is polymorphism in Java, and how does it relate to method overriding?": "N/A",
+            "Can you explain the difference between the equals() and == operators when comparing objects in Java?": "N/A",
+            "How do you handle exceptions in Java, and what are some best practices for doing so?": "N/A",
+            "What are some of the most significant challenges you've faced in your career as a C++ developer?": "N/A",
+            "How do you approach debugging complex issues in your code?": "N/A",
+            "Can you describe a particularly innovative or creative solution you've implemented in a project?": "N/A"
+        }
+    }
+]
