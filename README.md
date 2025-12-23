@@ -102,5 +102,14 @@ The LLM runs locally using Ollama, so no paid API is required.
 Email sending depends on Gmail security settings.
 The chatbot performs only initial screening and does not evaluate answers.
 The project is designed to be simple, clear, and easy to understand.
+------------------------------------------------------------------------------------------
+Project Update
 
+This project was enhanced after the initial implementation to make it more practical and closer to a real-world hiring workflow.
+
+The updated version now includes automatic answer evaluation using a local pre-trained Large Language Model (LLaMA 3 via Ollama). Each candidate response is evaluated as either correct or incorrect, and a binary score is assigned (1 for correct, 0 for incorrect).
+
+All candidate information, interview questions, answers, evaluation results, and scores are now stored in a structured SQLite database. This allows recruiters to easily view complete candidate profiles and shortlist candidates based on their responses and scores.
+
+These updates improve the reliability, usability, and real-world applicability of the hiring assistant while keeping the system simple and independent of paid APIs.
 
